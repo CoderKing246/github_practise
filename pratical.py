@@ -8,4 +8,6 @@ def getDetail():
 def isAbove():
     return age>=18
 
+def func1():
+    return None
 
