@@ -14,3 +14,6 @@ def func2():
 
 def func33():
     return None 
+
+def func34():
+    return None 
