@@ -11,3 +11,5 @@ def isAbove():
 def func1():
     return None
 
+def func2():
+    return None
