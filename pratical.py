@@ -20,3 +20,6 @@ def func34():
 
 def func35():
     return None
+
+def func36():
+    return None
