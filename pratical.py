@@ -21,9 +21,6 @@ def func34():
 def func35():
     return None
 
-<<<<<<< HEAD
 def func36():
-=======
 def func37():
->>>>>>> mehra
     return None
